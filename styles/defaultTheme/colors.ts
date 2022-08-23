@@ -1,5 +1,5 @@
 const colors = {
-  background: "#000",
+  background: "#FFA500",
   fileEntry: {
     background: "hsla(207, 30%, 72%, 25%)",
     backgroundFocused: "hsla(207, 60%, 72%, 30%)",
@@ -20,7 +20,7 @@ const colors = {
   },
   highlight: "hsla(207, 100%, 72%, 90%)",
   highlightBackground: "hsla(207, 100%, 72%, 20%)",
-  startButton: "#FFF",
+  startButton: "#FFA500",
   taskbar: {
     active: "hsla(0, 0%, 20%, 70%)",
     activeForeground: "hsla(0, 0%, 40%, 70%)",
@@ -41,7 +41,7 @@ const colors = {
     textInactive: "rgb(170, 170, 170)",
   },
   window: {
-    background: "#808080",
+    background: "#FFA500",
     outline: "hsla(0, 0%, 25%, 75%)",
     outlineInactive: "hsla(0, 0%, 30%, 100%)",
     shadow: "0 0 12px 0 rgba(0, 0, 0, 50%)",
